@@ -1,0 +1,9 @@
+streamlit
+torch
+transformers
+faster-whisper
+open_clip_torch
+imageio-ffmpeg
+google-genai
+numpy<2.4
+scipy

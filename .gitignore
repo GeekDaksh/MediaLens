@@ -1,0 +1,14 @@
+*.mov
+*.mp3
+*.mp4
+*.pyc
+*.wav
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+app/.venv/
+build_notebook.py
+safecut_run/
+data/
+*.npy
+!scene-search/demo/*.mp4
